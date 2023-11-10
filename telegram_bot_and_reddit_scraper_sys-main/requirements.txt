@@ -1,0 +1,10 @@
+setuptools
+gspread
+oauth2client
+pandas
+asyncio
+prettytable
+telegram
+requests
+praw
+pyparsing
